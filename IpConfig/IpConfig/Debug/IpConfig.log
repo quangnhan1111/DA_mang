@@ -1,0 +1,4 @@
+﻿  IpConfig.cpp
+C:\Users\ADMIN\Desktop\IpConfig\IpConfig\IpConfig.cpp(151,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'LPVOID'
+C:\Users\ADMIN\Desktop\IpConfig\IpConfig\IpConfig.cpp(236,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'LPVOID'
+  IpConfig.vcxproj -> C:\Users\ADMIN\Desktop\IpConfig\Debug\IpConfig.exe

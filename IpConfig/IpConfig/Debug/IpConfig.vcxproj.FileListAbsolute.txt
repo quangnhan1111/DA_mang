@@ -1,0 +1,3 @@
+C:\Users\ADMIN\Desktop\IpConfig\IpConfig\Debug\IpConfig.exe
+C:\Users\ADMIN\Desktop\IpConfig\IpConfig\Debug\IpConfig.pdb
+C:\Users\ADMIN\Desktop\IpConfig\Debug\IpConfig.pdb
